@@ -1,0 +1,38 @@
+{
+  "name": "excepturicommodi",
+  "version": "1.0.0",
+  "description": "Encryption SDK: Build your trustless, decentralized and fault resistance Application using distributed key shades with threshold cryptography",
+  "main": "index.js",
+  "author": "CarmineMarvin",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bls-eth-wasm": "^1.0.5",
+    "joi": "^17.7.0"
+  },
+  "types": "./methods/index.d.ts",
+  "devDependencies": {
+    "ethers": "^6.7.1",
+    "jest": "^29.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaleelKessler/excepturicommodi.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "keywords": [
+    "quas",
+    "totam",
+    "encryption",
+    "libero",
+    "access-control",
+    "non",
+    "laudantium",
+    "odio"
+  ],
+  "bugs": {
+    "url": "https://github.com/JaleelKessler/excepturicommodi.git/issues"
+  }
+}
